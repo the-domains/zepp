@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.847587
 color:
   brandColors:
     - '#3C493F'
@@ -10,9 +10,10 @@ color:
   lightness: 0.433114
   rhythmicContrast: 0.649122
   saturation: 0.74671
-cta: {}
-layout_spectrum: 0.34978
-name: JZ
 opengraph: {}
+layout_spectrum: 0.34978
+analytics: {}
+name: JZ
+cta: {}
+description: wsup
 purpose: {}
-typography_spectrum: 0.847587
